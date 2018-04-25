@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\bin\Debug\netcoreapp2.0\Collection.deps.json
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\bin\Debug\netcoreapp2.0\Collection.runtimeconfig.json
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\bin\Debug\netcoreapp2.0\Collection.runtimeconfig.dev.json
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\bin\Debug\netcoreapp2.0\Collection.dll
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\bin\Debug\netcoreapp2.0\Collection.pdb
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\obj\Debug\netcoreapp2.0\Collection.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\obj\Debug\netcoreapp2.0\Collection.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\obj\Debug\netcoreapp2.0\Collection.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\obj\Debug\netcoreapp2.0\Collection.AssemblyInfo.cs
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\obj\Debug\netcoreapp2.0\Collection.dll
+D:\C# OOP Advanced\Exercises Iterators And Comparators\Collection\obj\Debug\netcoreapp2.0\Collection.pdb

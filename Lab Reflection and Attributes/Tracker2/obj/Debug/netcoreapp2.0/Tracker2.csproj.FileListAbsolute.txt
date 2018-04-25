@@ -1,0 +1,10 @@
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\obj\Debug\netcoreapp2.0\Tracker2.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\obj\Debug\netcoreapp2.0\Tracker2.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\obj\Debug\netcoreapp2.0\Tracker2.AssemblyInfo.cs
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\bin\Debug\netcoreapp2.0\Tracker2.deps.json
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\bin\Debug\netcoreapp2.0\Tracker2.runtimeconfig.json
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\bin\Debug\netcoreapp2.0\Tracker2.runtimeconfig.dev.json
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\bin\Debug\netcoreapp2.0\Tracker2.dll
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\bin\Debug\netcoreapp2.0\Tracker2.pdb
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\obj\Debug\netcoreapp2.0\Tracker2.dll
+D:\C# OOP Advanced\Lab Reflection and Attributes\Tracker2\obj\Debug\netcoreapp2.0\Tracker2.pdb

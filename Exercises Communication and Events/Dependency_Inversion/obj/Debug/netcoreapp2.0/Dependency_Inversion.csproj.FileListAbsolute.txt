@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\bin\Debug\netcoreapp2.0\Dependency_Inversion.deps.json
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\bin\Debug\netcoreapp2.0\Dependency_Inversion.runtimeconfig.json
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\bin\Debug\netcoreapp2.0\Dependency_Inversion.runtimeconfig.dev.json
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\bin\Debug\netcoreapp2.0\Dependency_Inversion.dll
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\bin\Debug\netcoreapp2.0\Dependency_Inversion.pdb
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\obj\Debug\netcoreapp2.0\Dependency_Inversion.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\obj\Debug\netcoreapp2.0\Dependency_Inversion.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\obj\Debug\netcoreapp2.0\Dependency_Inversion.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\obj\Debug\netcoreapp2.0\Dependency_Inversion.AssemblyInfo.cs
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\obj\Debug\netcoreapp2.0\Dependency_Inversion.dll
+D:\C# OOP Advanced\Exercises Communication and Events\Dependency_Inversion\obj\Debug\netcoreapp2.0\Dependency_Inversion.pdb

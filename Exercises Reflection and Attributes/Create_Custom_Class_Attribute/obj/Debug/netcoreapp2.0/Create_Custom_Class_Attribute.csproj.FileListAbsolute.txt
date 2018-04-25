@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\obj\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\obj\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\obj\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\obj\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.AssemblyInfo.cs
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\bin\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.deps.json
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\bin\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.runtimeconfig.json
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\bin\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.runtimeconfig.dev.json
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\bin\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.dll
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\bin\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.pdb
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\obj\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.dll
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Create_Custom_Class_Attribute\obj\Debug\netcoreapp2.0\Create_Custom_Class_Attribute.pdb

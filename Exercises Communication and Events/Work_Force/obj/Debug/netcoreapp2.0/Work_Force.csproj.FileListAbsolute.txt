@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\bin\Debug\netcoreapp2.0\Work_Force.deps.json
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\bin\Debug\netcoreapp2.0\Work_Force.runtimeconfig.json
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\bin\Debug\netcoreapp2.0\Work_Force.runtimeconfig.dev.json
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\bin\Debug\netcoreapp2.0\Work_Force.dll
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\bin\Debug\netcoreapp2.0\Work_Force.pdb
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\obj\Debug\netcoreapp2.0\Work_Force.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\obj\Debug\netcoreapp2.0\Work_Force.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\obj\Debug\netcoreapp2.0\Work_Force.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\obj\Debug\netcoreapp2.0\Work_Force.AssemblyInfo.cs
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\obj\Debug\netcoreapp2.0\Work_Force.dll
+D:\C# OOP Advanced\Exercises Communication and Events\Work_Force\obj\Debug\netcoreapp2.0\Work_Force.pdb

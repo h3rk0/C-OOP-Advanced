@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\bin\Debug\netcoreapp2.0\Mission_Private_Impossible.deps.json
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\bin\Debug\netcoreapp2.0\Mission_Private_Impossible.runtimeconfig.json
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\bin\Debug\netcoreapp2.0\Mission_Private_Impossible.runtimeconfig.dev.json
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\bin\Debug\netcoreapp2.0\Mission_Private_Impossible.dll
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\bin\Debug\netcoreapp2.0\Mission_Private_Impossible.pdb
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\obj\Debug\netcoreapp2.0\Mission_Private_Impossible.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\obj\Debug\netcoreapp2.0\Mission_Private_Impossible.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\obj\Debug\netcoreapp2.0\Mission_Private_Impossible.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\obj\Debug\netcoreapp2.0\Mission_Private_Impossible.AssemblyInfo.cs
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\obj\Debug\netcoreapp2.0\Mission_Private_Impossible.dll
+D:\C# OOP Advanced\Lab Reflection and Attributes\Mission_Private_Impossible\obj\Debug\netcoreapp2.0\Mission_Private_Impossible.pdb

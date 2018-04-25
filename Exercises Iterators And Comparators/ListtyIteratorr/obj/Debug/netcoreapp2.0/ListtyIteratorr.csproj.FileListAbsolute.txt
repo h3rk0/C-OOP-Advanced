@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\obj\Debug\netcoreapp2.0\ListtyIteratorr.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\obj\Debug\netcoreapp2.0\ListtyIteratorr.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\obj\Debug\netcoreapp2.0\ListtyIteratorr.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\obj\Debug\netcoreapp2.0\ListtyIteratorr.AssemblyInfo.cs
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\bin\Debug\netcoreapp2.0\ListtyIteratorr.deps.json
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\bin\Debug\netcoreapp2.0\ListtyIteratorr.runtimeconfig.json
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\bin\Debug\netcoreapp2.0\ListtyIteratorr.runtimeconfig.dev.json
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\bin\Debug\netcoreapp2.0\ListtyIteratorr.dll
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\bin\Debug\netcoreapp2.0\ListtyIteratorr.pdb
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\obj\Debug\netcoreapp2.0\ListtyIteratorr.dll
+D:\C# OOP Advanced\Exercises Iterators And Comparators\ListtyIteratorr\obj\Debug\netcoreapp2.0\ListtyIteratorr.pdb

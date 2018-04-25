@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\bin\Debug\netcoreapp2.0\Event_Implementation.deps.json
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\bin\Debug\netcoreapp2.0\Event_Implementation.runtimeconfig.json
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\bin\Debug\netcoreapp2.0\Event_Implementation.runtimeconfig.dev.json
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\bin\Debug\netcoreapp2.0\Event_Implementation.dll
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\bin\Debug\netcoreapp2.0\Event_Implementation.pdb
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\obj\Debug\netcoreapp2.0\Event_Implementation.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\obj\Debug\netcoreapp2.0\Event_Implementation.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\obj\Debug\netcoreapp2.0\Event_Implementation.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\obj\Debug\netcoreapp2.0\Event_Implementation.AssemblyInfo.cs
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\obj\Debug\netcoreapp2.0\Event_Implementation.dll
+D:\C# OOP Advanced\Exercises Communication and Events\Event_Implementation\obj\Debug\netcoreapp2.0\Event_Implementation.pdb

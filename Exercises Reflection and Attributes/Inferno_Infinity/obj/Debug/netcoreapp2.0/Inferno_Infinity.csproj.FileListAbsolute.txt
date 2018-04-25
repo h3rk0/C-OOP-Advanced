@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\bin\Debug\netcoreapp2.0\Inferno_Infinity.deps.json
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\bin\Debug\netcoreapp2.0\Inferno_Infinity.runtimeconfig.json
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\bin\Debug\netcoreapp2.0\Inferno_Infinity.runtimeconfig.dev.json
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\bin\Debug\netcoreapp2.0\Inferno_Infinity.dll
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\bin\Debug\netcoreapp2.0\Inferno_Infinity.pdb
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\obj\Debug\netcoreapp2.0\Inferno_Infinity.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\obj\Debug\netcoreapp2.0\Inferno_Infinity.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\obj\Debug\netcoreapp2.0\Inferno_Infinity.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\obj\Debug\netcoreapp2.0\Inferno_Infinity.AssemblyInfo.cs
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\obj\Debug\netcoreapp2.0\Inferno_Infinity.dll
+D:\C# OOP Advanced\Exercises Reflection and Attributes 2nd Part\Inferno_Infinity\obj\Debug\netcoreapp2.0\Inferno_Infinity.pdb

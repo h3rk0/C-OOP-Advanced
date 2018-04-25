@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\bin\Debug\netcoreapp2.0\Logger.deps.json
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.json
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.dev.json
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\bin\Debug\netcoreapp2.0\Logger.dll
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\bin\Debug\netcoreapp2.0\Logger.pdb
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\obj\Debug\netcoreapp2.0\Logger.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\obj\Debug\netcoreapp2.0\Logger.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfo.cs
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\obj\Debug\netcoreapp2.0\Logger.dll
+D:\C# OOP Advanced\Exercises Open  Closed and Liskov\Logger\obj\Debug\netcoreapp2.0\Logger.pdb

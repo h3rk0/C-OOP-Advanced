@@ -1,0 +1,11 @@
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\bin\Debug\netcoreapp2.0\Trackerr.deps.json
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\bin\Debug\netcoreapp2.0\Trackerr.runtimeconfig.json
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\bin\Debug\netcoreapp2.0\Trackerr.runtimeconfig.dev.json
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\bin\Debug\netcoreapp2.0\Trackerr.dll
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\bin\Debug\netcoreapp2.0\Trackerr.pdb
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\obj\Debug\netcoreapp2.0\Trackerr.csprojResolveAssemblyReference.cache
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\obj\Debug\netcoreapp2.0\Trackerr.csproj.CoreCompileInputs.cache
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\obj\Debug\netcoreapp2.0\Trackerr.AssemblyInfoInputs.cache
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\obj\Debug\netcoreapp2.0\Trackerr.AssemblyInfo.cs
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\obj\Debug\netcoreapp2.0\Trackerr.dll
+D:\C# OOP Advanced\Lab Reflection and Attributes\Trackerr\obj\Debug\netcoreapp2.0\Trackerr.pdb
